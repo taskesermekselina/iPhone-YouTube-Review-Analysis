@@ -58,7 +58,4 @@ Bu proje, veri madenciliği ve doğal dil işleme tekniklerinin ürün yorumlar�
 Yönetim Bilişim Sistemleri  
 Bursa Uludağ Üniversitesi
 
----
 
-## ⚠️ Not
-Bu proje akademik amaçlıdır. Kullanılan veriler kamuya açık YouTube yorumlarından elde edilmiştir.
